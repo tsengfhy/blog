@@ -1,6 +1,11 @@
-/node_modules
-/public
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Node
+node_modules
+public
 package-lock.json
 
-.idea/
-*.iml
